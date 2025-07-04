@@ -17,3 +17,9 @@ int reverse(int x)
     }
     return ans;
 }
+
+int main()
+{
+    int res = reverse(152);
+    cout << res;
+}
