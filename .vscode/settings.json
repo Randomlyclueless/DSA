@@ -29,5 +29,6 @@
         "string": "cpp",
         "ratio": "cpp"
     },
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "ros.distro": "humble"
 }
